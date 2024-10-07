@@ -1,0 +1,4 @@
+- The use of semaphores to synchronize threads
+- The use of thread pools to handle large number of threads
+- The use of a count down latch to wait for the termination of multiple
+threads
