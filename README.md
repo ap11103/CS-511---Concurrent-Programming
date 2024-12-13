@@ -1,0 +1,3 @@
+The study of concurrency and thread synchronization at multiple levels of abstraction. Topics include: models of concurrency via transition systems; languages for expressing concurrency; the challenges of concurrent programming; race conditions;
+deadlock; live lock and nondeterministic behavior; starvation; prototypical synchronization problems, such as readers-writers, producers-consumers and dining philosophers; mechanisms for solving these problems, such as non-blocking primitives (eg.
+CAS), semaphores, and monitors; message passing; and formal reasoning about concurrency using model-checking. 
